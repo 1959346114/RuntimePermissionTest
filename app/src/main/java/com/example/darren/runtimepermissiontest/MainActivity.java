@@ -60,4 +60,8 @@ public class MainActivity extends AppCompatActivity {
             default:
         }
     }
+
+    public void testOtherChange(){
+
+    }
 }
